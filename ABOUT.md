@@ -49,7 +49,7 @@ This framework combines them into one trust signal per product, weighted by what
 
 **3. Averages need floors.** A weighted average lets strength in one dimension hide weakness in another. Some weaknesses, such as unprotected data or untraceable origin, cannot be absorbed by strength elsewhere.
 
-For deeper development of these arguments, see [Trust Is Not a Gate. It Is a Signal That Must Travel.](https://foundationaldataproducts.substack.com) on Substack.
+For deeper development of these arguments, see [Trust Is Not a Gate. It Is a Signal That Must Travel.](https://annajibgashvili.substack.com/p/coming-soon) on Substack.
 
 ## Versioning
 

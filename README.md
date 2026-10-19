@@ -105,7 +105,7 @@ In plain language: you may share this framework with attribution. You may use it
 
 - **Methodology home:** [foundeon.com](https://foundeon.com)
 - **Toolkit:** [foundationaldataproducts.com/toolkit](https://foundationaldataproducts.com/toolkit)
-- **Methodology writing:** [Trust Is Not a Gate. It Is a Signal That Must Travel.](https://foundationaldataproducts.substack.com) on Substack
+- **Methodology writing:** [Trust Is Not a Gate. It Is a Signal That Must Travel.](https://annajibgashvili.substack.com/p/coming-soon) on Substack
 - **Author:** [Anna Jibgashvili on LinkedIn](https://www.linkedin.com/in/annajibgashvili/)
 
 ## Contact
