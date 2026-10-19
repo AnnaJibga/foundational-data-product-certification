@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+title: Foundational Data Product Progressive Certification
+message: >-
+  If you use this framework in research, advisory work, or institutional
+  reporting, please cite it using the metadata below.
+type: software
+authors:
+  - given-names: Anna
+    family-names: Jibgashvili
+    affiliation: Foundeon
+    website: 'https://foundeon.com'
+identifiers:
+  - type: url
+    value: 'https://github.com/AnnaJibga/foundational-data-product-certification'
+    description: GitHub repository
+  - type: url
+    value: 'https://foundeon.com'
+    description: Methodology home
+  - type: url
+    value: 'https://foundationaldataproducts.com/toolkit'
+    description: Toolkit
+repository-code: 'https://github.com/AnnaJibga/foundational-data-product-certification'
+url: 'https://foundationaldataproducts.com/toolkit'
+abstract: >-
+  A weighted, progressive certification framework for Foundational Data
+  Products. Eight dimensions (Data Quality, Semantic Coherence, Metadata
+  Completeness, Lineage Transparency, Security and Compliance, Governance,
+  Performance, Accessibility and Interoperability) are assessed through
+  twenty-four criteria scored from 0 to 100 and combined into a
+  certification percentage. Certification levels (Registered, Bronze,
+  Silver, Gold) combine the percentage with tier checks, dimension floors,
+  three-owner sign-off and a portability condition. The dimension profile
+  travels with the product in its passport, so each consumer, including
+  AI agents, can judge fitness for its own purpose. Part of the Foundeon
+  methodology.
+keywords:
+  - Foundational Data Products
+  - data product certification
+  - data trust
+  - trust score
+  - data governance
+  - data quality
+  - data lineage
+  - AI-ready data
+  - semantic coherence
+  - data passport
+license: CC-BY-NC-ND-4.0
+version: '1.0'
+date-released: '2026-10-19'
+preferred-citation:
+  type: software
+  title: Foundational Data Product Progressive Certification
+  authors:
+    - given-names: Anna
+      family-names: Jibgashvili
+  version: '1.0'
+  year: 2026
+  url: 'https://github.com/AnnaJibga/foundational-data-product-certification'
+  publisher:
+    name: Foundeon
