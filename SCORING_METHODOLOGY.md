@@ -149,7 +149,7 @@ The certification percentage places a product in a band. The level also depends 
 | **Bronze** | 40–59 | Tier 1 checks complete |
 | **Registered** | 0–39 | Registered in the catalog with a passport |
 
-**Tier 1 checks.** The source data is validated for completeness, correctness, clarity of lineage, and timeliness against each source's contracted refresh.
+**Tier 1 checks.** The source data is validated for completeness, correctness, traceability to its source system, and timeliness against each source's contracted refresh.
 
 **Tier 2 checks.** The data is clean and ready to consume: fields formatted, columns from multiple sources reconciled to single definitions and names, the full data preserved and loaded into the data model.
 
@@ -159,7 +159,7 @@ The certification percentage places a product in a band. The level also depends 
 
 **Dimension floors.** A weighted average lets a strong dimension cover a weak one. Floors prevent that where the weakness cannot be absorbed: exposed data, untraceable origin, absent ownership, and meaning that disagrees with the rest of the enterprise. Exposed data blocks Silver. Untraceable origin, absent ownership and conflicting meaning block the seal.
 
-**Expired readings.** Every certification carries a re-scoring date. Re-scoring is due whenever a source system, a governance policy or a regulation changes, and at least quarterly while the product moves toward Gold. A reading past its re-scoring date shows as expired on the passport, and the seal is suspended until the product is re-scored.
+**Expired readings.** Every certification carries a re-scoring date. Re-scoring is due whenever a source system, a governance policy or a regulation changes, and at least quarterly. A reading past its re-scoring date shows as expired on the passport, the seal is suspended, and uses released on that reading are held until the product is re-scored.
 
 A product that reaches the Gold band without meeting every condition is certified at the highest level whose conditions it meets. The workbook shows which condition holds it there.
 
@@ -167,7 +167,7 @@ A product that reaches the Gold band without meeting every condition is certifie
 
 The certification level summarizes the product. The dimension percentages tell each consumer whether it can rely on the product for its purpose.
 
-A consumer, human or agent, states the minimum percentage its purpose needs on the dimensions that matter to it, and leaves the rest open. The owner of each use sets the minimum and records it with the use, so the fit check can be repeated and audited. The Consumer Fit tab in the workbook performs this check. A product below Gold can be fit for many uses. A product at Gold can still fall short of an unusually demanding one.
+A consumer, human or agent, states the minimum percentage its purpose needs on the dimensions that matter to it, and leaves the rest open. The owner of each use sets the minimum and records it with the use, so the fit check can be repeated and audited. Below Gold, the product owner confirms each use the fit check releases. The Consumer Fit tab in the workbook performs this check. A product below Gold can be fit for many uses. A product at Gold can still fall short of an unusually demanding one.
 
 Treat the level as the summary. Treat the dimension profile as the decision.
 

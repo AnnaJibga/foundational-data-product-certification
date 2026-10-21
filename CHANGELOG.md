@@ -6,6 +6,22 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+## [1.2.0] - 2026-10-21
+
+Rules for released uses and re-scoring. The workbook is unchanged.
+
+### Added
+
+- **Released uses on expired readings.** When a reading expires, uses released on it are held until the product is re-scored
+- **Use approval below Gold.** Below Gold, the product owner confirms each use the fit check releases
+
+### Changed
+
+- **Re-scoring cadence.** At least quarterly for every product, including products at Gold
+- **Tier 1 scope.** Tier 1 confirms traceability to the source system; Lineage Transparency measures the full path from source to use
+
+---
+
 ## [1.1.0] - 2026-10-21
 
 Clarifications to how certification holds over time. The workbook is unchanged.
