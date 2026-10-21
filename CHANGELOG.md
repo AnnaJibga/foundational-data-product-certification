@@ -8,7 +8,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [1.2.0] - 2026-10-21
 
-Rules for released uses and re-scoring. The workbook is unchanged.
+Rules for released uses and re-scoring. The workbook's sign-off label now reads "product owner"; its scoring is unchanged.
 
 ### Added
 
@@ -17,6 +17,7 @@ Rules for released uses and re-scoring. The workbook is unchanged.
 
 ### Changed
 
+- **Owner naming.** "Primary owner" is now "product owner" in the three-owner sign-off (SCORING_METHODOLOGY.md and the workbook's Certification tab)
 - **Re-scoring cadence.** At least quarterly for every product, including products at Gold
 - **Tier 1 scope.** Tier 1 confirms traceability to the source system; Lineage Transparency measures the full path from source to use
 

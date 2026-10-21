@@ -153,7 +153,7 @@ The certification percentage places a product in a band. The level also depends 
 
 **Tier 2 checks.** The data is clean and ready to consume: fields formatted, columns from multiple sources reconciled to single definitions and names, the full data preserved and loaded into the data model.
 
-**Three-owner sign-off.** The business owner, the primary owner and the data owner confirm the product meets the domain's requirements, with the domain's business rules applied. The sign-off records the uses the owners approved. A new use, or a change to the product's meaning, requires a new sign-off even when the score is unchanged. Routine score updates do not.
+**Three-owner sign-off.** The business owner, the product owner and the data owner confirm the product meets the domain's requirements, with the domain's business rules applied. The sign-off records the uses the owners approved. A new use, or a change to the product's meaning, requires a new sign-off even when the score is unchanged. Routine score updates do not.
 
 **Portability condition.** The product's contract, semantic definitions, certification record and passport exist in enterprise-owned form and export without loss of meaning. A product whose meaning can only be read inside one vendor's platform does not earn the seal.
 
