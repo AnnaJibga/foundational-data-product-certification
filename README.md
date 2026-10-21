@@ -83,7 +83,7 @@ Related artifacts, including the Foundational Data Product Domain Map, are avail
 
 ## What this framework is not
 
-- **Not a one-time audit.** Scores are meant to be refreshed as data, systems and obligations change. A certification is a current reading.
+- **Not a one-time audit.** Scores are meant to be refreshed as data, systems and obligations change. A certification is a current reading. A reading past its re-scoring date shows as expired, and the seal is suspended until the product is re-scored.
 - **Not a tool selection.** The framework is tool-agnostic. Any platform can implement the measurements.
 - **Not an enterprise readiness assessment.** It certifies individual data products. EIRA covers institutional readiness.
 - **Not a substitute for regulatory review.** It organizes evidence; it does not replace legal or compliance judgment.
@@ -93,7 +93,7 @@ Related artifacts, including the Foundational Data Product Domain Map, are avail
 A formal citation file is provided ([CITATION.cff](./CITATION.cff)). GitHub renders this as a "Cite this repository" button.
 
 Suggested citation:
-> Jibgashvili, A. (2026). *Foundational Data Product™ Progressive Certification* (v1.0). Foundeon. <https://foundeon.com>
+> Jibgashvili, A. (2026). *Foundational Data Product™ Progressive Certification* (v1.1). Foundeon. <https://foundeon.com>
 
 ## License
 

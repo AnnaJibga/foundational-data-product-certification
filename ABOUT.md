@@ -53,7 +53,7 @@ For deeper development of these arguments, see [Trust Is Not a Gate. It Is a Sig
 
 ## Versioning
 
-This is **v1.0**, the first public release. Version history is maintained in [CHANGELOG.md](./CHANGELOG.md).
+This is **v1.1**. The first public release was v1.0 (October 2026). Version history is maintained in [CHANGELOG.md](./CHANGELOG.md).
 
 ## Permitted use
 

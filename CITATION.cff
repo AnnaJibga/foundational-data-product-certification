@@ -45,15 +45,15 @@ keywords:
   - semantic coherence
   - data passport
 license: CC-BY-NC-ND-4.0
-version: '1.0'
-date-released: '2026-10-19'
+version: '1.1'
+date-released: '2026-10-21'
 preferred-citation:
   type: software
   title: Foundational Data Product Progressive Certification
   authors:
     - given-names: Anna
       family-names: Jibgashvili
-  version: '1.0'
+  version: '1.1'
   year: 2026
   url: 'https://github.com/AnnaJibga/foundational-data-product-certification'
   publisher:

@@ -6,6 +6,22 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+## [1.1.0] - 2026-10-21
+
+Clarifications to how certification holds over time. The workbook is unchanged.
+
+### Added
+
+- **Expired readings.** A reading past its re-scoring date shows as expired on the passport, and the seal is suspended until the product is re-scored (SCORING_METHODOLOGY.md, README.md)
+- **Scope of sign-off.** The three-owner sign-off records the approved uses. A new use, or a change to the product's meaning, requires a new sign-off even when the score is unchanged
+- **Consumer minimums.** The owner of each use sets its minimum dimension percentages and records them with the use, so the fit check can be repeated and audited
+
+### Clarified
+
+- Which weaknesses block which level: exposed data blocks Silver; untraceable origin, absent ownership and conflicting meaning block the seal
+
+---
+
 ## [1.0.0] - 2026-10-19
 
 Initial public release of the Foundational Data Product™ Progressive Certification framework as a standalone, citable repository.
