@@ -125,7 +125,7 @@ The passport shows all eight dimension percentages. Each consumer reads them aga
 | Accessibility and Interoperability | 78.3 | needs 70 · meets | needs 70 · meets | not relevant |
 | **Fit for this purpose** | | **Yes** | **Not yet** | **Not yet** |
 
-The servicing assistant can proceed today. Its purpose depends on quality, meaning, protection and speed, and the product meets all four. The credit decisioning agent and the regulatory filing wait for lineage, and the credit agent also waits for one data quality criterion.
+The servicing assistant can proceed today. Its purpose depends on quality, meaning, protection and speed, and the product meets all four. The credit decisioning agent and the regulatory filing wait for lineage, and the credit agent also waits for data quality to reach 85.
 
 One product. Three readings. Each one honest.
 
