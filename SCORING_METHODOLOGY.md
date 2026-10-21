@@ -42,6 +42,10 @@ The dimension percentage is the value a consumer sees for each dimension on the 
 
 Score current evidence. A planned control scores as not yet in place.
 
+Criteria a platform can measure, such as quality checks, refresh timeliness, availability and access enforcement, can be scored continuously from monitoring. The rest, such as approved definitions, audited lineage and tested escalation paths, are attested by the product's owners against evidence they can show.
+
+Certification records are designed to be sampled by internal audit. Certified products enter the same sample audit draws for other controls, and the audit confirms that a selection of scores and attestations match the evidence.
+
 ## The dimensions, in depth
 
 ### 1. Data Quality

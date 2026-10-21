@@ -6,6 +6,15 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+## [1.2.2] - 2026-10-21
+
+### Clarified
+
+- **Measured and attested criteria.** Platform-measurable criteria can be scored continuously from monitoring; the rest are attested by the product's owners against evidence (SCORING_METHODOLOGY.md)
+- **Independent sampling.** Certification records are designed to be sampled by internal audit, within the sample it already draws for other controls
+
+---
+
 ## [1.2.1] - 2026-10-21
 
 ### Added
