@@ -99,7 +99,7 @@ Suggested citation:
 
 This work is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](./LICENSE.md).
 
-In plain language: you may share this framework with attribution. You may use it internally as-is. You may not use it for commercial purposes without permission, and you may not distribute modified versions. For commercial licensing or advisory engagement, contact `anna@foundeon.com`.
+In plain language: you may share this framework with attribution. Any organization, including a commercial one, may use it internally and calibrate its weights for its own operations, as set out in the additional permission in [LICENSE.md](./LICENSE.md). You may not use it for commercial purposes without permission, and you may not distribute modified versions. For commercial licensing or advisory engagement, contact `anna@foundeon.com`.
 
 ## Canonical references
 

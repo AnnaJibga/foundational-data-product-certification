@@ -59,7 +59,7 @@ This is **v1.2**. The first public release was v1.0 (October 2026). Version hist
 
 Under the [CC BY-NC-ND 4.0 license](./LICENSE.md), the framework may be:
 
-- Downloaded and applied by any organization for internal use
+- Downloaded and applied by any organization, including commercial organizations, for its own internal operations, with weights calibrated for internal use (see the additional permission in [LICENSE.md](./LICENSE.md))
 - Cited and referenced in academic, professional, and commercial contexts with attribution
 - Shared with attribution and without modification
 

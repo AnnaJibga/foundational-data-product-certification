@@ -11,7 +11,7 @@ The Foundational Data Product™ Progressive Certification framework, including 
 You are free to:
 
 - **Share.** Copy and redistribute the framework in any medium or format.
-- **Use.** Apply the framework internally within your organization for diagnostic and educational purposes.
+- **Use.** Apply the framework internally within your organization, including a commercial organization, as described under Additional permission below.
 
 Under the following terms:
 
@@ -19,9 +19,13 @@ Under the following terms:
 
 - **NonCommercial.** You may not use this framework for commercial advantage or monetary compensation. This includes, and is not limited to: incorporating the framework into a paid product or service, using it as a deliverable in a billable consulting engagement without a commercial license, packaging it for resale, or using it as a lead-generation asset for a commercial offering.
 
-- **NoDerivatives.** If you remix, transform, adapt, or build upon the material, you may not distribute the modified material. This includes producing a derivative or inspired-by certification framework with similar dimensions, structure, or scoring methodology. You may use the framework internally as-is and discuss its results, and you may not produce or distribute a modified version.
+- **NoDerivatives.** If you remix, transform, adapt, or build upon the material, you may not distribute the modified material. This includes producing a derivative or inspired-by certification framework with similar dimensions, structure, or scoring methodology. You may use the framework internally as-is or with calibrated weights and discuss its results, and you may not produce or distribute a modified version.
 
 - **No additional restrictions.** You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+## Additional permission
+
+In addition to the rights granted under CC BY-NC-ND 4.0, Anna Jibgashvili grants every organization, including commercial organizations, permission to use this framework, and to calibrate its weights, for the organization's own internal operations. This permission does not extend to redistributing modified versions, reselling the framework, embedding it in a commercial product, or using it to deliver paid services to others. Those uses require a separate license from <anna@foundeon.com>.
 
 ## Notices
 

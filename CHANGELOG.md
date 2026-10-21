@@ -6,6 +6,14 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+## [1.2.1] - 2026-10-21
+
+### Added
+
+- **Additional permission (LICENSE.md).** Any organization, including a commercial organization, may use the framework and calibrate its weights for its own internal operations. Redistributing modified versions, resale, embedding in a commercial product, and paid services to others still require a separate license. README.md and ABOUT.md updated to match.
+
+---
+
 ## [1.2.0] - 2026-10-21
 
 Rules for released uses and re-scoring. The workbook's sign-off label now reads "product owner"; its scoring is unchanged.
