@@ -153,11 +153,11 @@ The certification percentage places a product in a band. The level also depends 
 | **Bronze** | 40–59 | Tier 1 checks complete |
 | **Registered** | 0–39 | Registered in the catalog with a passport |
 
-**Tier 1 checks.** The source data is validated for completeness, correctness, traceability to its source system, and timeliness against each source's contracted refresh.
+**Tier 1 checks.** The source data meets the completeness, correctness and timeliness thresholds set in the product contract, against each source's contracted refresh, and is traceable to its source system.
 
-**Tier 2 checks.** The data is clean and ready to consume: fields formatted, columns from multiple sources reconciled to single definitions and names, the full data preserved and loaded into the data model.
+**Tier 2 checks.** The data is clean and ready to consume: fields formatted, columns from multiple sources reconciled to single definitions and names, the data in the product's defined scope preserved and loaded into the data model. A tier check is complete when it passes the thresholds defined in the product contract for the product's scope; recording findings alone does not complete it.
 
-**Three-owner sign-off.** The business owner, the product owner and the data owner confirm the product meets the domain's requirements, with the domain's business rules applied. The sign-off records the uses the owners approved. A new use, or a change to the product's meaning, requires a new sign-off even when the score is unchanged. Routine score updates do not.
+**Three-owner sign-off.** The business owner, the product owner and the data owner confirm the product meets the domain's requirements, with the domain's business rules applied. The sign-off records the uses the owners approved. A new use, or a change to the product's meaning, requires a new sign-off even when the score is unchanged. Routine score updates do not. Approving a new use adds that use; the product's certification and its other approved uses stand, unless the review finds a product-level issue.
 
 **Portability condition.** The product's contract, semantic definitions, certification record and passport exist in enterprise-owned form and export without loss of meaning. A product whose meaning can only be read inside one vendor's platform does not earn the seal.
 
@@ -171,7 +171,9 @@ A product that reaches the Gold band without meeting every condition is certifie
 
 The certification level summarizes the product. The dimension percentages tell each consumer whether it can rely on the product for its purpose.
 
-A consumer, human or agent, states the minimum percentage its purpose needs on the dimensions that matter to it, and leaves the rest open. The owner of each use sets the minimum and records it with the use, so the fit check can be repeated and audited. Below Gold, the product owner confirms each use the fit check releases. The Consumer Fit tab in the workbook performs this check. A product below Gold can be fit for many uses. A product at Gold can still fall short of an unusually demanding one.
+A consumer, human or agent, states the minimum percentage its purpose needs on the dimensions that matter to it, and leaves the rest open. The owner of each use sets the minimum and records it with the use, so the fit check can be repeated and audited. Below Gold, the product owner confirms each use the fit check releases. Uses with high consequence also follow the enterprise's own approval requirements, at any level. The use owner accepts the business consequence of relying on the product; the product owners confirm the product supports it.
+
+Authorizations follow the current reading. When a dimension falls below a use's minimum, that use is held until the reading recovers. A change in meaning reopens the approvals of the uses that depend on it. The Consumer Fit tab in the workbook performs this check. A product below Gold can be fit for many uses. A product at Gold can still fall short of an unusually demanding one.
 
 Treat the level as the summary. Treat the dimension profile as the decision.
 

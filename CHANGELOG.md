@@ -6,6 +6,17 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+## [1.2.3] - 2026-10-26
+
+### Clarified
+
+- **Tier checks.** A tier check is complete when it passes thresholds defined in the product contract for the product's scope
+- **New uses.** Approving a new use adds that use; certification and other approved uses stand unless a product-level issue is found
+- **Use approval.** Uses with high consequence follow the enterprise's own approval requirements at any level; the use owner accepts the business consequence, the product owners confirm the product supports it
+- **Deteriorating readings.** When a dimension falls below a use's minimum, that use is held until the reading recovers; a change in meaning reopens dependent approvals
+
+---
+
 ## [1.2.2] - 2026-10-21
 
 ### Clarified
